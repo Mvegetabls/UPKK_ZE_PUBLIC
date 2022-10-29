@@ -151,7 +151,11 @@
 		},
 		"SERVER_TYPE_DE": {
 			"mce_exclude": 8,
-			"DisableMaps": []
+			"DisableMaps": ["de_piranesi",
+				       "de_aqueduct",
+				       "de_fortress",
+				       "de_ruins"
+				       ]
 		}
 	}
 }
